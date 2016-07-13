@@ -5,7 +5,10 @@
 #define DIM(x) (sizeof(x)/sizeof(x[0]))
 #endif
 
-// Extracted from a training session using only my own handwriting.
+// Extracted from a training session using only my own handwriting.  A better implementation
+// would have multiple of these to start from but would learn, over time, from the user's
+// corrections, and remove poor matches and instead use better ones from their own
+// hand writing.
 
 NSPoint digitPoints[10][31] = {
 /* 0 */
