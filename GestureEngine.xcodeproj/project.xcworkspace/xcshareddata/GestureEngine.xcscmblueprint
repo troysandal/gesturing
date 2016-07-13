@@ -1,0 +1,52 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "e1c36851-3d41-4b2f-bb4a-2ff778579d97++5645",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "e1c36851-3d41-4b2f-bb4a-2ff778579d97++5645" : {
+
+    },
+    "ab0a66d5-173a-0410-914f-912e39fdffef++9904" : {
+
+    },
+    "e1c36851-3d41-4b2f-bb4a-2ff778579d97++9889" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "e1c36851-3d41-4b2f-bb4a-2ff778579d97++5645" : 0,
+    "e1c36851-3d41-4b2f-bb4a-2ff778579d97++9889" : 0,
+    "3C52D36644D713E7093EE438192E1A54CB961068" : 0,
+    "ab0a66d5-173a-0410-914f-912e39fdffef++9904" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D6411763-DFEA-4BFF-82CB-DC59A3D3EA68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "e1c36851-3d41-4b2f-bb4a-2ff778579d97++5645" : "GestureEngine.xcodeproj\/",
+    "e1c36851-3d41-4b2f-bb4a-2ff778579d97++9889" : "English.lproj\/",
+    "3C52D36644D713E7093EE438192E1A54CB961068" : "",
+    "ab0a66d5-173a-0410-914f-912e39fdffef++9904" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:troysandal\/gesturing",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C52D36644D713E7093EE438192E1A54CB961068"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/beta.cirqe.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ab0a66d5-173a-0410-914f-912e39fdffef++9904"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/localhost",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e1c36851-3d41-4b2f-bb4a-2ff778579d97++5645"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/localhost",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e1c36851-3d41-4b2f-bb4a-2ff778579d97++9889"
+    }
+  ]
+}
